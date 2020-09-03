@@ -1,8 +1,9 @@
 ### Hi there 👋
 <p align="center">
-  <a href="#working-on">Related</a> •
-  <a href="#Learning">License</a>
+  <a href="#working-on">Working On</a> •
+  <a href="#Learning">Learning</a>
 </p>
+
 ---
 
 ## Working on
