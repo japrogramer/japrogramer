@@ -8,9 +8,9 @@
 
 ## Working on
 - I’m currently working on ...
-  - [x] ~~AI~~
-  - [x] ~~DATA~~
-  - [ ] Tensorflow Cert
+  - [x] ~~AI~~ **Does it exist?**: `Where does data become Intelligent?`.
+  - [x] ~~DATA~~ **Collect all the data**: `If data can become Intelligent, lets collect it`.
+  - [ ] Tensorflow Cert **Collect Cert**: `Why not?`.
   - [ ] Moon Landing
 
 ## Learning
