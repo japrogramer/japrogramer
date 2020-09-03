@@ -1,12 +1,23 @@
 ### Hi there 👋
+<p align="center">
+  <a href="#working-on">Related</a> •
+  <a href="#Learning">License</a>
+</p>
+---
 
+## Working on
 - I’m currently working on ...
-    - AI
-    - DATA
+  - [x] ~~AI~~
+  - [x] ~~DATA~~
+  - [ ] Tensorflow Cert
+  - [ ] Moon Landing
 
+## Learning
 - I’m currently learning ...
-    - AI
-    - DATA
+  - [x] ~~AI~~
+  - [x] ~~DATA~~
+  - [ ] Tensorflow
+  - [ ] Moon Landing
 
 <!--
 **japrogramer/japrogramer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
