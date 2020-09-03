@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
+- I’m currently working on ...
+    - AI
+    - DATA
 
-- 🌱 I’m currently learning ...
+- I’m currently learning ...
+    - AI
+    - DATA
 
 <!--
 **japrogramer/japrogramer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
