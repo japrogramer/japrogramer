@@ -17,7 +17,7 @@
 - I’m currently learning ...
   - [x] ~~AI~~
   - [x] ~~DATA~~
-  - [ ] Tensorflow
+  - [x] Tensorflow
   - [ ] Moon Landing
 
 <!--
